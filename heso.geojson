@@ -2,7 +2,12 @@
   "type": "FeatureCollection",
   "features": [
     { "type": "Feature", 
-      "properties": {"ZIP": "60647"}, 
+      "properties": {
+        "名称": "日本のへそ",
+        "marker-size": "large",
+        "marker-color": "#f00",
+        "marker-symbol": "city"
+      }, 
       "geometry": {"type": "Point", "coordinates": [135.0, 35.0]}
     }
   ]
