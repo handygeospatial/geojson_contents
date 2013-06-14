@@ -6,7 +6,7 @@
         "名称": "日本のへそ",
         "marker-size": "large",
         "marker-color": "#f00",
-        "marker-symbol": "bus"
+        "marker-symbol": "rail-above"
       }, 
       "geometry": {"type": "Point", "coordinates": [135.0, 35.0]}
     }
